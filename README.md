@@ -20,6 +20,6 @@ This is Train to view all map
 
 
 This is the Snowboard scene
-Press M to enter the scene, press n to escape, and return to the main scene
+Press M to enter the scene, press n to escape, and return to the main scene, Press R to return to starting position
 Use WASD to move and use the spacebar to use skill when the player floating
 ![image](https://github.com/RoganRobert/Space-xmas/assets/131221793/90718614-24bb-4729-b9ab-9a470655956a)
