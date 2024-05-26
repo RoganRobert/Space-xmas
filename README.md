@@ -1,6 +1,7 @@
 # Space-Xmas
  
-This is a world metaverse about Xmas
+This is a world metaverse about Xmas (Connect network to play)
+Can play multiplayer 
 
 This is the main scene
 Use WASD to move the player, Shift is run 
